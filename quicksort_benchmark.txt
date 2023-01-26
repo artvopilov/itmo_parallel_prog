@@ -1,0 +1,13 @@
+Sequential sort elapsed in 37588 ms
+Parallel sort elapsed in 9729 ms
+Sequential sort elapsed in 63090 ms
+Parallel sort elapsed in 10627 ms
+Sequential sort elapsed in 68816 ms
+Parallel sort elapsed in 12060 ms
+Sequential sort elapsed in 66674 ms
+Parallel sort elapsed in 12831 ms
+Sequential sort elapsed in 65218 ms
+Parallel sort elapsed in 10300 ms
+----------------------------------------
+Avg sequential sort performance: 60277.2 ms
+Avg parallel sort performance: 11109.4 ms

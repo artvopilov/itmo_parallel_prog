@@ -1,0 +1,15 @@
+.idea/
+.cmake/
+
+CMakeFiles/
+CMakeCache.txt
+MakeFile
+cmake_install.cmake
+
+Testing/
+
+_deps/
+
+itmo_parallel_algo.cbp
+bfs
+quicksort

@@ -1,0 +1,13 @@
+Sequential bfs elapsed in 3488 ms
+Parallel bfs elapsed in 1143 ms
+Sequential bfs elapsed in 3563 ms
+Parallel bfs elapsed in 1037 ms
+Sequential bfs elapsed in 3422 ms
+Parallel bfs elapsed in 1061 ms
+Sequential bfs elapsed in 3564 ms
+Parallel bfs elapsed in 1103 ms
+Sequential bfs elapsed in 3638 ms
+Parallel bfs elapsed in 1115 ms
+----------------------------------------
+Avg sequential bfs performance: 3535 ms
+Avg parallel bfs performance: 1091.8 ms
